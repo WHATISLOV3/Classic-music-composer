@@ -54,7 +54,7 @@
 Все необходимые для работы модули описаны в файле *requirements.txt*
 
 
-## Исходные данные
+## Датасеты
 
 * [The MAESTRO dataset](https://magenta.tensorflow.org/datasets/maestro#v100)
 
