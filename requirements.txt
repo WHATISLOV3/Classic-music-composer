@@ -1,0 +1,4 @@
+music21 == 6.3.0
+numpy == 1.19.2
+torch == 1.7.0
+matplotlib == 3.3.1
